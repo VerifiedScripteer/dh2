@@ -1,0 +1,23 @@
+{
+  "name": "den-haag-bot",
+  "version": "1.0.0",
+  "description": "Bot voor denhaag",
+  "main": "index.js",
+  "scripts": {
+    "test": "test, dh",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "denhaag",
+    "custom"
+  ],
+  "author": "Dean",
+  "license": "ISC",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.1.0",
+    "js": "^0.1.0",
+    "nodemon": "^2.0.12"
+  }
+}
