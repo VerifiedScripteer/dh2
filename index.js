@@ -30,7 +30,7 @@ fs.readdir("./commands/", (err, files) => {
 
 });
 
-client.login(process.env.token);
+client.login(process.env.toke);
 
 client.once("ready", () => {
 
